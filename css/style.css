@@ -1,0 +1,46 @@
+td {
+	border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+table, tr, td {
+	border-spacing: 0px;
+}
+
+td.black_cell {
+	background-color: black;
+}
+
+td.arm_cell {
+	background-color: red;
+}
+
+td.myLaserClass {
+	background-color: blue;
+}
+
+td.myGunClass {
+	background-color: yellow;
+}
+
+td.myKnifeClass {
+	background-color: purple;
+}
+
+td.mySwordClass {
+	background-color: green;
+}
+
+td.player0 {
+	background-color: grey;
+}
+
+td.player1 {
+	background-color: orange;
+}
+
+td.player2 {
+	background-color: aqua;
+}
